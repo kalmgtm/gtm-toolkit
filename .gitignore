@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+job_output/
+call_briefs/
+*.csv
+!test_leads.csv
+!test_replies.csv
+!scored_test_leads.csv
+!classified_test_replies.csv
