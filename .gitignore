@@ -8,3 +8,4 @@ call_briefs/
 !test_replies.csv
 !scored_test_leads.csv
 !classified_test_replies.csv
+!enrichment-pipeline/sample_domains.csv
